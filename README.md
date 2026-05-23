@@ -54,7 +54,45 @@ Currently learning:
 
 # Featured Projects
 
-## 1. Master's Project — Boilerman Performance Analysis (Sime Darby)
+## 1. Master's Project — THE RELATIONSHIP OF DESIGN THINKING WITH 21ST CENTURY LEARNING SKILLS AMONGST STUDENTS OF ENGINEERING PROGRAMS IN MALAYSIA POLYTECHNICS (Universiti Teknologi Malaysia,)
+
+### Project Overview
+
+Investigate whether Design Thinking process correlates with 21st century learning skills among Malaysian polytechnic engineering students.
+
+### Key Contributions
+
+* Data collection and analysis consists of 335 respondent
+* Likert-scale questionnaire
+* Operational efficiency observations
+
+### Skills Used
+
+* IBM SPSS
+* Statistical analysis
+* Pearson Correlation
+* Descriptive statistics
+* Data visualization
+
+### Key Findings
+* Critical thinking scored only medium level, but still satisfactory
+* Collaboration highest among all dimensions
+* Strong positive correlation between Design Thinking principle and 21st century learning skills
+
+### Business/Education Implication
+TVET institutions may improve employability skills by integrating Design Thinking practices into curriculum.
+
+
+### Summary of Thesis
+
+* Data visualisation:
+
+
+* Paper [https://github.com/ejam96/Data_Analyst_Portfolio/blob/31d993a66613e8d669d008fe77e5ede7285f5e12/Article_Thesis_IzhamShah_MPP191024.pdf] 
+
+---
+
+## 2. Boiler efficiency and shift performance (SD Guthrie International Langat Refinery)
 
 ### Project Overview
 
@@ -73,28 +111,6 @@ Analyzed boilerman operational performance and related parameters within industr
 * Data Analysis
 * Technical Reporting
 * Industrial Operations Understanding
-
----
-
-## 2. Boiler efficiency and shift performance (SD Guthrie International Langat Refinery)
-
-### Project Overview
-
-Analyzed maintenance job frequency and repair duration trends to understand operational workload and maintenance efficiency.
-
-### Key Contributions
-
-* Job count analysis
-* Repair duration analysis
-* Trend identification
-* Maintenance KPI observation
-
-### Skills Used
-
-* Excel
-* Data Organization
-* Maintenance KPI Analysis
-* Manufacturing Operations
 
 ---
 
