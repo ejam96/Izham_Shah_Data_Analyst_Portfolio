@@ -75,9 +75,9 @@ Investigate whether Design Thinking process correlates with 21st century learnin
 * Data visualization
 
 ### Key Findings
-* Critical thinking scored only medium level, but still satisfactory
-* Collaboration highest among all dimensions
-* Strong positive correlation between Design Thinking principle and 21st century learning skills
+* Critical thinking skills scored only medium level, but still satisfactory.
+* Collaboration skills is the highest among all dimensions.
+* Strong positive correlation between Design Thinking principle and 21st century learning skills.
 
 ### Business/Education Implication
 TVET institutions may improve employability skills by integrating Design Thinking practices into curriculum.
@@ -86,9 +86,9 @@ TVET institutions may improve employability skills by integrating Design Thinkin
 ### Summary of Thesis
 
 * Data visualisation:
+![](Related Diagram/21st century Skills level.png)
 
-
-* [Article](https://github.com/ejam96/Data_Analyst_Portfolio/blob/31d993a66613e8d669d008fe77e5ede7285f5e12/Article_Thesis_IzhamShah_MPP191024.pdf)
+* [Article](Related Diagram/Article_Thesis_IzhamShah_MPP191024.pdf)
 
 ---
 
