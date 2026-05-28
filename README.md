@@ -93,20 +93,24 @@ TVET institutions may improve employability skills by integrating Design Thinkin
 The highest level is collaboration skills, while the lowest level is critical thinking. All dimensions is above 70%.
 
 
+
 ![](Related Diagram/21st century Skills level Distribution.png)
 
-Most of the students are still in medium level of critical thinking.
+Most of the students are still in medium level of critical thinking, which improvement can be made to ensure high employability.
+
 
 
 #### Bar Chart of Design Thinking level among Polythecnics Students
 ![](Related Diagram/Design Thinking level.png)
 
-The highest level is collaboration skills, while the lowest level is critical thinking. All dimensions is above 70%.
+The highest score is the implementation on emphatic process, while the lowest one is prototype process. All dimensions is above 74%.
 
 
-![](Related Diagram/Design Thinking level.png)
 
-The highest level is collaboration skills, while the lowest level is critical thinking. All dimensions is above 70%.
+![](Related Diagram/Design Thinking level distribution.png)
+
+Most of the student has high udnerstanding on how to run emphatic process in Design Thinking.
+
 
 
 * My [Article](Related Diagram/Article_Thesis_IzhamShah_MPP191024.pdf)
