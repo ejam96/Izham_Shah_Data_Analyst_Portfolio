@@ -50,7 +50,7 @@ Currently learning:
 * Data Cleaning
 * Interactive Reporting
 
-===
+---
 
 # Featured Projects
 
@@ -106,11 +106,11 @@ TVET institutions may improve employability skills by integrating Design Thinkin
 
 ---
 
-## 2. Boiler efficiency and shift performance (SD Guthrie International Langat Refinery,2021-2022)
+## 2. Boiler efficiency and shift performance (SD Guthrie International Langat Refinery,November 2021 - February 2022)
 
 ### Project Overview
 
-Analyzed boiler production and plant steam consumption to calculate cost saving and evaluate shift cost saving as boilerman KPI.
+Analyzed boiler production and plant steam consumption to calculate efficiency and evaluate as boilerman KPI.
 
 ### Key Contributions
 
@@ -127,7 +127,7 @@ Analyzed boiler production and plant steam consumption to calculate cost saving 
 * Industrial Operations Understanding
 
 ### Key Findings
-* Critical thinking skills scored only medium level, but still satisfactory.
+* For steam production per natural gas consumption ratio, 
 
 ### Summary of Analysis
 
