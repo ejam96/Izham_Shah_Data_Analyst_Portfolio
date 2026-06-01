@@ -110,7 +110,7 @@ TVET institutions may improve employability skills by integrating Design Thinkin
 
 ### Project Overview
 
-Analyzed boiler production and plant steam consumption to calculate efficiency and evaluate as boilerman KPI.
+Analyzed gross boiler steam production with plant steam consumption to find net steam efficiency, and to calculate boiler efficiency with ratio of steam production with natural gas consumption, and evaluate the results as boilerman KPI.
 
 ### Key Contributions
 
@@ -127,7 +127,8 @@ Analyzed boiler production and plant steam consumption to calculate efficiency a
 * Industrial Operations Understanding
 
 ### Key Findings
-* For steam production per natural gas consumption ratio, 
+* For steam production per natural gas consumption ratio,
+* For steam usage efficiency, 
 
 ### Summary of Analysis
 
@@ -167,7 +168,7 @@ I am currently strengthening my technical skills in:
 * Manufacturing analytics
 
 Target:
-Transition into a Junior Data Analyst / Reporting Analyst role before September 2026.
+Transition into a Junior Data Analyst / Reporting Analyst role before August 2026.
 
 ---
 
