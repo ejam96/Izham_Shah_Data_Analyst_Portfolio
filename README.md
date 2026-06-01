@@ -1,4 +1,4 @@
-# Izham Shah Hamdan
+# Data Analyst Portfolio
 
 ## About Me
 
