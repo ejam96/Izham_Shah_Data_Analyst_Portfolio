@@ -106,11 +106,11 @@ TVET institutions may improve employability skills by integrating Design Thinkin
 
 ---
 
-## 2. Boiler efficiency and shift performance (SD Guthrie International Langat Refinery,November 2021 - February 2022)
+## 2. Steam generation performance evaluation (SD Guthrie International Langat Refinery,November 2021 - February 2022)
 
 ### Project Overview
 
-Analyzed gross boiler steam production with plant steam consumption to find net steam efficiency, and to calculate boiler efficiency with ratio of steam production with natural gas consumption, and evaluate the results as boilerman KPI.
+Analyzed steam generation performance by developing a steam-to-fuel consumption KPI in Microsoft Excel and monitoring monthly trends to support energy efficiency evaluation and utility performance reporting.
 
 ### Key Contributions
 
@@ -127,9 +127,13 @@ Analyzed gross boiler steam production with plant steam consumption to find net 
 * Industrial Operations Understanding
 
 ### Key Findings
-* For steam production per natural gas consumption ratio,
-* For steam usage efficiency, 
-
+* For steam production per natural gas consumption ratio:
+* * For November 2021 till December 2021,
+  * 
+<br>
+* For steam usage efficiency:
+* *
+<br>
 ### Summary of Analysis
 
 
