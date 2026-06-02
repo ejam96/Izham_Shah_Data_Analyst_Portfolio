@@ -128,12 +128,13 @@ Analyzed steam generation performance by developing a steam-to-fuel consumption 
 
 ### Key Findings
 * For steam production per natural gas consumption ratio:
-* * For November 2021 till December 2021,
-  * 
+ * For November 2021 till December 2021, 
+ * For January 2022 till February 2022, 
 <br>
 * For steam usage efficiency:
-* *
+ * 
 <br>
+
 ### Summary of Analysis
 
 
