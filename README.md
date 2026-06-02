@@ -110,7 +110,7 @@ TVET institutions may improve employability skills by integrating Design Thinkin
 
 ### Project Overview
 
-Analyzed steam generation performance by developing a steam-to-fuel consumption KPI in Microsoft Excel and monitoring monthly trends to support energy efficiency evaluation and utility performance reporting.
+Analyzed steam generation performance by developing a steam-to-fuel consumption KPI in Microsoft Excel, included with steam usage percentage, and monitoring monthly trends to support energy efficiency evaluation and utility performance reporting.
 
 ### Key Contributions
 
@@ -137,8 +137,7 @@ Analyzed steam generation performance by developing a steam-to-fuel consumption 
 |12.80 – 13.40 |High Efficiency     |
 |13.40 – 14.00 |Very High Efficiency|
 
-* <br>
-  * From November 2021 till December 2021, the highest ratio achieved is 13.21 while the lowest one is 11.32:
+⋅⋅⋅⋅* From November 2021 till December 2021, the highest ratio achieved is 13.21 while the lowest one is 11.32:
     * November 2021: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.
     * December 2021: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.<br>
 
@@ -146,8 +145,7 @@ Analyzed steam generation performance by developing a steam-to-fuel consumption 
    
 ![](Related Diagram/Steam to Fuel Ratio Overall December 2021.png)<br>
 
-* <br>
-  * For January 2022 till March 2022, the highest ratio achieved is 13.38 while the lowest one is 11.01:
+⋅⋅⋅⋅* For January 2022 till March 2022, the highest ratio achieved is 13.38 while the lowest one is 11.01:
     * January 2022: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.<br>
     * February 2022: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.<br>
     * March 2022: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.<br>
@@ -160,12 +158,18 @@ Analyzed steam generation performance by developing a steam-to-fuel consumption 
 
 #### By summary, steam to fuel ratio of all 3 boilers of SD Guthrie International Langat Refinery is consistently produce medium level of efficiency by normal distribution as above graph showns. This can be improved more by utilising deaerator as to increase water temperature with less gas consumption.
 
-* For steam usage efficiency:
- * 
+* For steam balance percentage, it is identified by obtaining boiler steam production, and then obtaining steam net balance by including plant steam usage shown at totaliser. The target/range of steam balance percentage is as below:
+
+|Class Interval|Remarks             |
+|:------------:|:------------------:|
+|11.00 – 11.60 |Very Low Efficiency |
+|11.60 – 12.20 |Low Efficiency      |
+|12.20 – 12.80 |Medium Efficiency   |
+|12.80 – 13.40 |High Efficiency     |
+|13.40 – 14.00 |Very High Efficiency|
+
+⋅⋅⋅⋅* 
 <br>
-
-### Summary of Analysis
-
 
 
 ---
@@ -202,17 +206,16 @@ I am currently strengthening my technical skills in:
 * Manufacturing analytics
 
 Target:
-Transition into a Junior Data Analyst / Reporting Analyst role before August 2026.
+Transition into a Junior Data Analyst / Reporting Analyst role before September 2026.
 
 ---
 
 # Future Portfolio Projects
 
-Planned upcoming projects:
+Planned upcoming projects for learning purposes:
 
 * Maintenance KPI Dashboard
-* Machine Downtime Analysis
-* Production Efficiency Dashboard
+* Machine Downtime Analysis with Power BI
 * SQL Manufacturing Dataset Analysis
 
 ---
