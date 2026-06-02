@@ -127,9 +127,20 @@ Analyzed steam generation performance by developing a steam-to-fuel consumption 
 * Industrial Operations Understanding
 
 ### Key Findings
-* For steam production per natural gas consumption ratio:
- * For November 2021 till December 2021, 
- * For January 2022 till February 2022, 
+* For steam production (kg) per natural gas consumption (Sm^3) ratio, usually can be achieved with ratio of 11.00 till 14.00. Thus, we can classified 11.00 is the lowest score and 14.00 is the highest score:<br>
+|11.00 – 11.60|Very Low Efficiency|
+|11.60 – 12.20|Low Efficiency|
+|12.20 – 12.80|Medium Efficiency|
+|12.80 – 13.40|High Efficiency|
+|13.40 – 14.00|Very High Efficiency|
+<br>
+  * From November 2021 till December 2021, the highest ratio achieved is 13.21 while the lowest one is 11.32:
+    * November 2021: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.
+![](Related Diagram/Steam to Fuel Ratio Overall November 2021.png)<br>
+    * December 2021: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.
+![](Related Diagram/Steam to Fuel Ratio Overall December 2021.png)<br>
+<br>
+  * For January 2022 till March 2022, 
 <br>
 * For steam usage efficiency:
  * 
