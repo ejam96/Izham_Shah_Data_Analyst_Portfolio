@@ -137,18 +137,18 @@ Analyzed steam generation performance by developing a steam-to-fuel consumption 
 |12.80 – 13.40 |High Efficiency     |
 |13.40 – 14.00 |Very High Efficiency|
 
-⋅⋅⋅⋅* From November 2021 till December 2021, the highest ratio achieved is 13.21 while the lowest one is 11.32:
-    * November 2021: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.
-    * December 2021: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.<br>
+#### From November 2021 till December 2021, the highest ratio achieved is 13.21 while the lowest one is 11.32:
+* November 2021: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.
+* December 2021: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.
 
 ![](Related Diagram/Steam to Fuel Ratio Overall November 2021.png)<br>
    
 ![](Related Diagram/Steam to Fuel Ratio Overall December 2021.png)<br>
 
-⋅⋅⋅⋅* For January 2022 till March 2022, the highest ratio achieved is 13.38 while the lowest one is 11.01:
-    * January 2022: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.<br>
-    * February 2022: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.<br>
-    * March 2022: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.<br>
+#### For January 2022 till March 2022, the highest ratio achieved is 13.38 while the lowest one is 11.01:
+* January 2022: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.
+* February 2022: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.
+* March 2022: Most of the ratio can be achieved by 12.20 – 12.80, which is medium energy efficiency.
 
 ![](Related Diagram/Steam to Fuel Ratio Overall January 2022.png)<br>
 
