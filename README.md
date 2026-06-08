@@ -100,7 +100,7 @@ TVET institutions may improve employability skills by integrating Design Thinkin
 *The highest score is the implementation on emphatic process, while the lowest one is prototype process. All dimensions is above 74%.*<br>
 <br>
 ![](Related Diagram/Design Thinking level distribution.png)<br>
-*Most of the student has high udnerstanding on how to run emphatic process in Design Thinking.*<br>
+*Most of the student has high understanding on how to run emphatic process in Design Thinking.*<br>
 <br>
 * My [Article](Related Diagram/Article_Thesis_IzhamShah_MPP191024.pdf)
 
@@ -160,22 +160,20 @@ Analyzed steam generation performance by developing a steam-to-fuel consumption 
 
 * For steam balance percentage, it is identified by obtaining boiler steam production, and then obtaining steam net balance by including plant steam usage shown at totaliser. The target/range of steam balance percentage is as below:
 
-|Class Interval|Remarks             |
-|:------------:|:------------------:|
-|20% – 100%    |Very Low Efficiency |
-|15% – 20%     |Low Efficiency      |
-|10% – 15%     |Medium Efficiency   |
-|5% – 10%      |High Efficiency     |
-|0% – 5%       |Very High Efficiency|
+|Class Interval|Remarks             |Score|
+|:------------:|:------------------:|:---:|
+|<0%           |Error Data          |0    |
+|20% – 100%    |Very Low Efficiency |1    |
+|15% – 20%     |Low Efficiency      |2    |
+|10% – 15%     |Medium Efficiency   |3    |
+|5% – 10%      |High Efficiency     |4    |
+|0% – 5%       |Very High Efficiency|5    |
 
-#### From November 2021 till December 2021, the highest percentage achieved is 13.21 while the lowest one is 11.32:
-* November 2021: Most of the unused steam percentage can be achieved by 12.20 – 12.80, which is medium energy efficiency.
-* December 2021: Most of the unused steam percentage can be achieved by 12.20 – 12.80, which is medium energy efficiency. 
+#### For November 2021, the highest percentage achieved is 26.51% while the lowest one is 0.44%:
 <br>
-#### From January 2022 till March 2022, the highest percentage achieved is 13.21 while the lowest one is 11.32:
-* January 2022: Most of the unused steam percentage can be achieved by 12.20 – 12.80, which is medium energy efficiency.
-* February 2022: Most of the unused steam percentage can be achieved by 12.20 – 12.80, which is medium energy efficiency.
-* March 2022: Most of the unused steam percentage can be achieved by 12.20 – 12.80, which is medium energy efficiency.
+![](Related Diagram/Unused Steam Percentage Score Frequency for November 2021.png)<br>
+
+#### By summary, unused steam percentage of SD Guthrie International Langat Refinery shows consistency at score 5, which we can say that most of the shift can managed to reduce steam losses due to good steamline condition |very high efficiency|, which has no severe leaks throughout line. This can be improved more by ensure proper condensate water return to boiler system for reducing more steam/water losses.
 
 ---
 
