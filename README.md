@@ -204,7 +204,16 @@ Analyzed maintenance job frequency and repair duration trends to understand oper
 I am currently strengthening my technical skills in:
 
 * SQL querying
-* Power BI dashboard development
+* Power BI dashboard development:<br>
+
+![](Related Diagram/Power BI Training.png)<br>
+#### Currently, I have been joining to do data visualization with Power BI, and now undestand basics of:
+Data loading from Excel file <br>
+Slicer <br>
+KPI Card <br>
+Chart <br>
+Details such as Table/Matrix <br>
+
 * Data storytelling
 * Manufacturing analytics
 
