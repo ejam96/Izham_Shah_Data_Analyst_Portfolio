@@ -173,7 +173,7 @@ Analyzed steam generation performance by developing a steam-to-fuel consumption 
 <br>
 ![](Related Diagram/Unused Steam Percentage Score Frequency for November 2021.png)<br>
 
-#### By summary, unused steam percentage of SD Guthrie International Langat Refinery shows consistency at score 5, which we can say that most of the shift can managed to reduce steam losses due to good steamline condition |very high efficiency|, which has no severe leaks throughout line. This can be improved more by ensure proper condensate water return to boiler system for reducing more steam/water losses.
+#### By summary, unused steam percentage of SD Guthrie International Langat Refinery shows consistency at score 5, which we can say that most of the shift can managed to reduce steam losses due to good steamline condition (very high efficiency), which has no severe leaks throughout line. This can be improved more by ensure proper condensate water return to boiler system for reducing more steam/water losses.
 
 ---
 
